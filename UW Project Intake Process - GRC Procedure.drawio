@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T18:58:36.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0" etag="zGTcpRC9oDqfQjQZPFLr" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T19:06:23.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0" etag="O4GIKW-0a3aO9U2U12gC" version="12.2.7" type="github" pages="1">
   <diagram id="EGlLaus-P8G1E-tgkFCy" name="Page-1">
     <mxGraphModel dx="1426" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,11 +19,14 @@
         <mxCell id="QFpOu1T3T5SNptgBHsQ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFpOu1T3T5SNptgBHsQ_-2" target="QFpOu1T3T5SNptgBHsQ_-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="QFpOu1T3T5SNptgBHsQ_-2" value="Contact Stefan to assign the assessment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="354" y="260" width="141" height="80" as="geometry"/>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-2" value="Contact Deputy CISO / GRC Lead to assign the assessment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="354" y="250" width="141" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="QFpOu1T3T5SNptgBHsQ_-4" value="Assigned analyst - note in JIRA that GRC assessment has been assigned." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="185.5" y="390" width="146" height="80" as="geometry"/>
+          <mxGeometry x="520" y="390" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QFpOu1T3T5SNptgBHsQ_-5" target="oRpaIqn0PsGAM3a0iJjr-12">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="QFpOu1T3T5SNptgBHsQ_-5" value="Assigned analyst - create Box folder for assessment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="351.5" y="390" width="146" height="80" as="geometry"/>
@@ -32,10 +35,78 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="QFpOu1T3T5SNptgBHsQ_-6" value="Assigned analyst - provide question set to the requestor" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="517.5" y="390" width="146" height="80" as="geometry"/>
+          <mxGeometry x="179" y="390" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-1" target="oRpaIqn0PsGAM3a0iJjr-5">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="oRpaIqn0PsGAM3a0iJjr-1" value="Requestor - provides responses to assessment questions." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="500" width="150" height="80" as="geometry"/>
+          <mxGeometry x="179" y="500" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-5" target="oRpaIqn0PsGAM3a0iJjr-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-5" value="Assigned analyst - Score risk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="181" y="610" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-7" target="oRpaIqn0PsGAM3a0iJjr-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-7" value="&lt;div&gt;Assigned analyst - Generate CCR&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="349" y="610" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-10" target="oRpaIqn0PsGAM3a0iJjr-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-10" value="Send draft CCR to D-CISO for review" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="349" y="720" width="141" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-12" value="Assigned analyst - add to SmartSheet with link to Box" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="349" y="500" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-14" target="oRpaIqn0PsGAM3a0iJjr-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-14" target="oRpaIqn0PsGAM3a0iJjr-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-14" value="Is the CCR acceptable?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="345" y="830" width="150" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-18" target="oRpaIqn0PsGAM3a0iJjr-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-18" value="D-CISO sends to CISO for review and signature." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="950" width="141" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-20" target="oRpaIqn0PsGAM3a0iJjr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1110"/>
+              <mxPoint x="530" y="629"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oRpaIqn0PsGAM3a0iJjr-20" target="oRpaIqn0PsGAM3a0iJjr-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-20" value="Is the CCR acceptable?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1060" width="150" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-23" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="890" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-24" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1120" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-25" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="930" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1150" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-27" value="&lt;div&gt;Assigned analyst - Attach signed CCR to original JIRA request&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="347" y="1190" width="146" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
