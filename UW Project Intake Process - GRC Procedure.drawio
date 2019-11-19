@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2019-11-19T17:42:40.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0" etag="ChNcGpmIxdTkxYOktlzP" version="12.2.7" type="github" pages="1"><diagram id="EGlLaus-P8G1E-tgkFCy" name="Page-1">7VjbcpswEP0aP8bDxWDyGDvXTi9J7E6ap4wMCygBRIWwoV/fFQgDsZO6M07c6eQFtEer1UpHu1oYmNO4uOAkDb8wD6KBoXnFwDwdGIY+Mmx8SaSskbGjgIBTTym1wIz+AgVqCs2pB1lPUTAWCZr2QZclCbiihxHO2aqv5rOoP2tKAtgAZi6JNtE76omwRh1La/FLoEHYzKxrqicmjbICspB4bNWBzLOBOeWMiboVF1OI5OY1+1KPO3+hd+0Yh0TsMuDmPP2W63Nzbs2+piKYXGY3D0em8k2UzYLBw/UrkXERsoAlJDpr0QlneeKBtKqh1Op8ZixFUEfwEYQoFZkkFwyhUMSR6oWCih9y+NBS0n2n57RQliuh7AjXwGkMAniDJYKXHUNSvO/2taYqqexKz43VGyFX/+L+KihjOXfhlU1tzinhAYhX9Iz1KcDwAYbe8BLHcYiIoMu+H0Sd42Ct11KNDcX2XzCv7C5JlKuZBoYdobsTjy6xGcjmLfzMIRNy0fkipkIg7TIA8fH9Dh9Xc3xcc/YoQw/FRJAnqCEXsmzYmEQPO1a3TNRAC/4c+ePQi1vcAG0OJMZXwgT1aeXlkhJJaExoNNzd/LNoyARnT+vIN/rnGCM6lXpxEcjkN/QjtnJDwsUwQ+7Fg1RfhVTALCXVgVmhGmI+jaIpixiv5jA9Ao7vSnvVZJ0e23Vg4a/9WgIXULx+PDePkxpgmirxqkQ8Umlp1WY1fezUWNjNaI72Ridw/JF79p97jB1zz+iQucf5YP5wzFuHZP74g/nDMW8fknljo96YMiwXqrphJsAnSVNZkCyjQSWFUItYSsRyV/Z0O6d1dbLj7WyB44223c6OsTBte0+3szXq3c6GveV6Humb1/Ob3c6jDb5OKl6q2opg+JVVXXhUF12SKCo5+3R1e1JRR2RvXZt1GdRC9NTQFgDJmmrwhgeh1vfBdrcWXt74eKFp+6FWd6yh1SPXPN5Grv2O5Fq7k+tyIBW9E1aoD2jMYbLBDx+c78Ogaen/HIP27gziji6pJymsPuYok5GXgWjybZ1mef2pJ1n9b4m09PE7Eoli+3en6uv8IzPPfgM=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T18:58:36.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0" etag="zGTcpRC9oDqfQjQZPFLr" version="12.2.7" type="github" pages="1">
+  <diagram id="EGlLaus-P8G1E-tgkFCy" name="Page-1">
+    <mxGraphModel dx="1426" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFpOu1T3T5SNptgBHsQ_-1" target="QFpOu1T3T5SNptgBHsQ_-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-1" value="&lt;div&gt;Request submitted to UW IT Project Intake Process.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GRC Team notified via email.&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="336" y="40" width="178" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFpOu1T3T5SNptgBHsQ_-2" target="QFpOu1T3T5SNptgBHsQ_-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFpOu1T3T5SNptgBHsQ_-2" target="QFpOu1T3T5SNptgBHsQ_-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFpOu1T3T5SNptgBHsQ_-2" target="QFpOu1T3T5SNptgBHsQ_-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-2" value="Contact Stefan to assign the assessment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="354" y="260" width="141" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-4" value="Assigned analyst - note in JIRA that GRC assessment has been assigned." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="185.5" y="390" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-5" value="Assigned analyst - create Box folder for assessment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="351.5" y="390" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QFpOu1T3T5SNptgBHsQ_-6" target="oRpaIqn0PsGAM3a0iJjr-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QFpOu1T3T5SNptgBHsQ_-6" value="Assigned analyst - provide question set to the requestor" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="517.5" y="390" width="146" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpaIqn0PsGAM3a0iJjr-1" value="Requestor - provides responses to assessment questions." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="500" width="150" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
