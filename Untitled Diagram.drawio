@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T21:37:10.000Z" agent="5.0 (Macintosh)" etag="bA4Nd6iwTT20Ja8aSL3r" version="13.1.1" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7Vltb6M4EP41kW4/dAU45OVjk7TbVNlTlNzd6j66YIKvBiPjvO2vvxkwJASSsmqi3ZUqRYkZjwf7mecZG9Ih42j3RdEk/Cp9JjqO5e86ZNJxHGfQ68IPWva5xbbIMLesFPeN7WBY8u+scDTWNfdZWnHUUgrNk6rRk3HMPF2xUaXktuoWSFG9a0JXrGZYelTUrd+4r8PcOnD6B/sT46uwuLPdM+uLaOFsVpKG1JfbIxN56JCxklLnrWg3ZgLRK3DJxz2e6S0nplis2wzY7+6Xd69//xvKDV3sn4Jn8s/mzunlYTZUrM2Kv7CYKYojp3EgFayDy9gsQe8LXNItjwSN4WpkIjCl2e7s3OxyxcAVJiOm1R5czIA7d2iIYnjS6xnUtgfQSWELjwB3XGOkJtGrMvgBC2gYOH4EmkENmmms6SsD2yPggj+cCT+9hE0gY700PRZceyEX/ozu5Rrnn2rqvRZXo1Aq/h38AXsyscEA3UobSUCiIBoXYiyFVGCIZXaDw6AlBjO3USyFYfMCf/vE9JXuKo4zmupiglIImqT8JZsyDoyoWvF4JLWWkXFqlfELfDvLg0L1hgWkgQTdBhLYvVuRgNg1EowRbag0J/qw/viTRsANuI81DzE5WfMholzkzaUXQuWCaUxYoj91EAqyuwc4Z9LL9fYXfJ0JXzrPlfTX2P8Irf9Y7ukD6jzg3slcLBkgM2Wgt5CYfBbTBaSP5G2mvU9vhJ6w1FM8OZnEhGqK4wWLMN9Qk/cJVGlUgVTMhwiJkh5LU2xbL5jhhuBluErzRExAMZ1pQclXdkL+Bj1QwVcxXAoW4DDkKMAi7o1ZywSDJdTj8WqW+Uy6B8vCcApNEsYGIqvYIfcBYZSL1LDyl1LOieSxzjjnjuADLBxbn92OO0F83ZF9uIYPuisN+YW1UJ7JhIHwtgzF9x5NDZo1ZURUlPg3RUS6t6qkTk1E80wJ5+tmqKOiCl4qma3r3OXaap0tpFfY22ynWtRcq17VuoOGhLjdm21tpJYQkKBARH2+geYKm89IbqxbzFsrrnFJ0EUjVFD+ncmab6iHfQu24WxbxIF5HYVqmeoLSXn/zuNcVknLpDjWzbaaukqel/MFJiBhHlZ3LMdZ4f04b7TOOrmoTVKV5rDGgfJEUqmU1q0qJakL02y1E556QqZr3MbhCQi+iPJzBPT+88cG+h6SkDdKQ30DbaRF4Xd9VnTrh1BMS3bgK495gEvAs4MgpFDvP3hwbR64zs/mgVvjwVQzfBAlH9m+drb7g5+cbaeu+uwkhoIfyV32FkL4TP0GZ6u2hyu7f7MTb106M4SoSTq/HH5k2Ba/m70MIw0vw/B5f/40xQd8BkWg+emfPNbwVaGMXtYww9E25JotoYZgz1bRpAp5K0DfeLFYUqp4sdivY1nCVj3k9W+F5bCG5beQ4pMWT4/ApIDfLwlhv4GOV4MQLg+vxLO+o38WyMP/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-13T21:38:18.200Z" agent="5.0 (Macintosh)" etag="ANvOlC3xBLwnv3BKA6tD" version="13.1.1" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2253" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-26" value="General Information" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-594" y="660" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-28" value="Intake Form Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="yxAS-kUYhovaRyHfJ3Vv-26" vertex="1">
+          <mxGeometry x="10" y="30" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-31" value="Contact Information (Name, Phone, Email, School/Dept)&#xa;Local IT Contact Information&#xa;Product/Project Identification (Name of software, IRB#, etc)&#xa;Product/Project Description&#xa;Data element types stored/processed by Product/Project&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="yxAS-kUYhovaRyHfJ3Vv-28" vertex="1">
+          <mxGeometry y="26" width="340" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-22" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="500" width="480" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-23" value="&lt;div&gt;Joint Security &amp;amp; Privacy Review&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="yxAS-kUYhovaRyHfJ3Vv-22" vertex="1">
+          <mxGeometry y="20" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-32" value="JSPR Specific Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="yxAS-kUYhovaRyHfJ3Vv-23" vertex="1">
+          <mxGeometry x="30" y="9" width="210" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-33" value="Data Disclosure to 3rd party.&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="yxAS-kUYhovaRyHfJ3Vv-32" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-34" value="Certificate of Confidentiality" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="yxAS-kUYhovaRyHfJ3Vv-32" vertex="1">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-35" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="yxAS-kUYhovaRyHfJ3Vv-32" vertex="1">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-24" value="Secure Box Folder" style="swimlane;html=1;startSize=20;horizontal=0;" parent="yxAS-kUYhovaRyHfJ3Vv-22" vertex="1">
+          <mxGeometry y="220" width="480" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-25" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="yxAS-kUYhovaRyHfJ3Vv-22" vertex="1">
+          <mxGeometry y="390" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-38" value="Is PHI being stored/processed?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="670" width="150" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="yxAS-kUYhovaRyHfJ3Vv-39" value="What is being assessed?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="790" width="150" height="107" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
