@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T19:16:51.000Z" agent="5.0 (Macintosh)" etag="MGrqslkhemAFnaVw23Xv" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-15T19:21:30.600Z" agent="5.0 (Macintosh)" etag="uEzCxc5GNx0FLohBI8Pz" version="13.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="3332" dy="2024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,9 +76,6 @@
         </mxCell>
         <mxCell id="ICGc_ksDgKoEMmsDHTLX-29" value="Request to Procure" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="-40" width="480" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="X_yMFEVLrLtv7fPFfUJ--15" value="Add PCI review column" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ICGc_ksDgKoEMmsDHTLX-29">
-          <mxGeometry x="410" y="37.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ICGc_ksDgKoEMmsDHTLX-30" value="Approval to Operate / Risk Assessment" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="150" width="480" height="300" as="geometry" />
@@ -231,6 +228,9 @@
         </mxCell>
         <mxCell id="X_yMFEVLrLtv7fPFfUJ--32" value="&lt;div&gt;Email to GRC-Cybersecurity&lt;/div&gt;&lt;div&gt;Email direct to Analyst&lt;/div&gt;&lt;div&gt;Email to Cybersecurity&lt;br&gt;&lt;/div&gt;&lt;div&gt;IAM&lt;/div&gt;&lt;div&gt;InterOp&lt;/div&gt;&lt;div&gt;Cloud&lt;/div&gt;&lt;div&gt;Purchasing&lt;/div&gt;&lt;div&gt;SMPH/Chris Spencer&lt;/div&gt;&lt;div&gt;Research Infrastructure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X_yMFEVLrLtv7fPFfUJ--31">
           <mxGeometry y="80" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="X_yMFEVLrLtv7fPFfUJ--35" value="PCI-Review" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-40" width="80" height="1440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
