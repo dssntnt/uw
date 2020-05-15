@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T16:30:32.300Z" agent="5.0 (Macintosh)" etag="jdCY6gNIeegKIWmKRz3I" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-15T16:42:57.500Z" agent="5.0 (Macintosh)" etag="U25lMHk6LLrOtq1kCQRj" version="13.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="3080" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,8 +125,8 @@
         <mxCell id="ICGc_ksDgKoEMmsDHTLX-54" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ICGc_ksDgKoEMmsDHTLX-55" target="ICGc_ksDgKoEMmsDHTLX-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ICGc_ksDgKoEMmsDHTLX-55" value="Will data be shared with external collaborators?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1150" width="150" height="130" as="geometry" />
+        <mxCell id="ICGc_ksDgKoEMmsDHTLX-55" value="&lt;div&gt;Will data be shared with external collaborators?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Is this short term storage?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Is the data updated infrequently?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="1110" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ICGc_ksDgKoEMmsDHTLX-56" value="Restricted Drive" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="1020" width="480" height="190" as="geometry" />
@@ -175,6 +175,9 @@
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-10" vertex="1">
           <mxGeometry y="78" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="X_yMFEVLrLtv7fPFfUJ--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ICGc_ksDgKoEMmsDHTLX-55" target="ICGc_ksDgKoEMmsDHTLX-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
