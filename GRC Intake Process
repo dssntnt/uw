@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T18:30:59.900Z" agent="5.0 (Macintosh)" etag="zjAtYh-iEb8jOJFf01z8" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-15T18:32:16.800Z" agent="5.0 (Macintosh)" etag="F8dp9A0WBsOnzR5pfMDW" version="13.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2842" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         <mxCell id="SJLAv09rN7KfXa-gFYUv-2" value="Vendor Details" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-1" vertex="1">
           <mxGeometry y="40" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SJLAv09rN7KfXa-gFYUv-3" value="SOC 2 available?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-1" vertex="1">
+        <mxCell id="SJLAv09rN7KfXa-gFYUv-3" value="SOC 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-1" vertex="1">
           <mxGeometry y="66" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-4" value="CAIQ&#xa;HECVAT&#xa;BTAA Questionaire&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-1" vertex="1">
