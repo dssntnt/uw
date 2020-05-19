@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T21:33:33.900Z" agent="5.0 (Macintosh)" etag="uXuE6eUfyIKgJqkbUAfv" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T21:33:49.900Z" agent="5.0 (Macintosh)" etag="ADHiniuJ7eo0RqR-zVCd" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;Active/Active Round Robin&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551.5" y="840" width="313.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="End users: Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="1040" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-57" value="&lt;div&gt;Imaging AD&lt;/div&gt;&lt;div&gt;Oracle ERPs&lt;/div&gt;&lt;div&gt;OIM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Anything else that needs&lt;br&gt;credentials rotated." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-100">
