@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T21:31:13.200Z" agent="5.0 (Macintosh)" etag="aMS2brPiIoaHw6C2Lm2w" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T21:33:33.900Z" agent="5.0 (Macintosh)" etag="uXuE6eUfyIKgJqkbUAfv" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,14 +46,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-62" target="9HuW_AX4d_CLtjcuJ3QG-126">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-90" value="Port: 636" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-62" target="9HuW_AX4d_CLtjcuJ3QG-126">
+          <mxGeometry x="0.777" relative="1" as="geometry">
             <mxPoint x="917.6999999999998" y="310.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="195" y="390" />
               <mxPoint x="918" y="390" />
               <mxPoint x="918" y="295" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-122" value="Port 1858" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-62" target="9HuW_AX4d_CLtjcuJ3QG-66">
@@ -105,12 +106,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-38" target="9HuW_AX4d_CLtjcuJ3QG-100">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-117" value="Port 443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-38" target="9HuW_AX4d_CLtjcuJ3QG-100">
+          <mxGeometry x="-0.4633" y="58" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="708" y="730" />
               <mxPoint x="428" y="730" />
             </Array>
+            <mxPoint x="-58" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;Active/Active Round Robin&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -129,7 +131,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-59">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-99" value="Port: 514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="390" as="targetPoint" />
           </mxGeometry>
@@ -256,14 +258,6 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-105" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 443&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PVWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="614" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-106" target="9HuW_AX4d_CLtjcuJ3QG-129">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="750" />
-              <mxPoint x="235" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="655" y="541" width="170" height="170" as="geometry" />
         </mxCell>
@@ -313,6 +307,15 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-133" value="&lt;div&gt;Servers that will be connected to via PSM&lt;/div&gt;&lt;div&gt;Protocols: RDP, SSH, Telnet&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="150" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-135" value="&lt;div&gt;RDP, SSH, Telnet&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-106" target="9HuW_AX4d_CLtjcuJ3QG-129">
+          <mxGeometry x="0.7514" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="750" />
+              <mxPoint x="235" y="750" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
