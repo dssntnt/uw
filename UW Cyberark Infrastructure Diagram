@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T18:22:58.300Z" agent="5.0 (Macintosh)" etag="c1ad4HOsamaeC0uDDCCb" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T18:25:02.900Z" agent="5.0 (Macintosh)" etag="awds2gVbcA0987tP8qCp" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="480" y="90" width="400" height="720" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-3" value="CSSC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="160" width="40" height="20" as="geometry" />
+          <mxGeometry x="170" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-4" value="WARF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="560" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="570" width="565" height="180" as="geometry" />
@@ -57,8 +57,8 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-7" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-8" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="170" width="60" height="60" as="geometry" />
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-8" value="Shared Data Store" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="120" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-9" target="9HuW_AX4d_CLtjcuJ3QG-17">
           <mxGeometry relative="1" as="geometry" />
@@ -104,25 +104,25 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-11" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="190" width="60" height="60" as="geometry" />
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-12" value="Shared Data Store" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-13" value="&lt;div&gt;Windows Server 2016&lt;br&gt;Non-Domain Joined&lt;/div&gt;&lt;div&gt;Hostname: PREROGATIVE&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: (pending subnet creation)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="240" width="150" height="80" as="geometry" />
+          <mxGeometry x="115" y="180" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-14" value="&lt;div&gt;Windows Server 2016&lt;br&gt;Non-Domain Joined&lt;/div&gt;&lt;div&gt;Hostname: ADVANTAGE&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: (pending subnet creation)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="240" width="150" height="80" as="geometry" />
+          <mxGeometry x="320" y="180" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-15" value="&lt;div&gt;Windows Server 2016&lt;br&gt;Non-Domain Joined&lt;/div&gt;&lt;div&gt;Hostname: PRIVILEGE&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: (pending subnet creation)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="270" width="150" height="80" as="geometry" />
+          <mxGeometry x="500" y="180" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-16" value="&lt;div&gt;Windows Server 2016&lt;br&gt;Non-Domain Joined&lt;/div&gt;&lt;div&gt;Hostname: ENTITLEMENT&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: (pending subnet creation)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="270" width="150" height="80" as="geometry" />
+          <mxGeometry x="715" y="180" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-17" value="PVWA&lt;br&gt;PSM" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="610" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-18" value="PVWA&lt;br&gt;PSM?" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-18" value="PVWA&lt;br&gt;PSM" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="610" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-22" value="Campus LDAP" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
