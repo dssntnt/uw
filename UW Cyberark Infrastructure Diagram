@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T21:27:00.000Z" agent="5.0 (Macintosh)" etag="JAHBBYJtm7oIn0uD5arP" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T21:31:13.200Z" agent="5.0 (Macintosh)" etag="aMS2brPiIoaHw6C2Lm2w" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,14 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-94" target="9HuW_AX4d_CLtjcuJ3QG-100">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-94" target="9HuW_AX4d_CLtjcuJ3QG-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="750" />
+              <mxPoint x="235" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="541" width="170" height="170" as="geometry" />
@@ -111,13 +119,12 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="1040" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-57" value="&lt;div&gt;Imaging AD&lt;/div&gt;&lt;div&gt;Oracle ERPs&lt;/div&gt;&lt;div&gt;OIM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Anything else that needs&lt;br&gt;credentials rotated." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1">
-          <mxGeometry x="0.3636" relative="1" as="geometry">
-            <mxPoint x="340" y="930" as="targetPoint" />
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-57" value="&lt;div&gt;Imaging AD&lt;/div&gt;&lt;div&gt;Oracle ERPs&lt;/div&gt;&lt;div&gt;OIM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Anything else that needs&lt;br&gt;credentials rotated." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-100">
+          <mxGeometry x="0.2735" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="targetPoint" />
             <mxPoint x="340" y="710" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="830" />
-              <mxPoint x="340" y="830" />
+              <mxPoint x="385" y="890" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -249,6 +256,14 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-105" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 443&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PVWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="614" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-106" target="9HuW_AX4d_CLtjcuJ3QG-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="750" />
+              <mxPoint x="235" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="655" y="541" width="170" height="170" as="geometry" />
         </mxCell>
@@ -283,6 +298,21 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-128" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="500" y="1003" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-129" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="930" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-130" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="950" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-131" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="205" y="950" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-132" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server_rack;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="255" y="950" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-133" value="&lt;div&gt;Servers that will be connected to via PSM&lt;/div&gt;&lt;div&gt;Protocols: RDP, SSH, Telnet&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1050" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
