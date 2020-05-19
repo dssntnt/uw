@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T18:48:10.300Z" agent="5.0 (Macintosh)" etag="Ip4kP-GMSa01PtMC08rv" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T18:57:16.900Z" agent="5.0 (Macintosh)" etag="y4x7eCeEJZKV7biNn2X_" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="2276" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-24" value="Port: 1858" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9HuW_AX4d_CLtjcuJ3QG-21">
           <mxGeometry x="-0.4535" y="1" relative="1" as="geometry">
-            <mxPoint x="59" y="81" as="offset" />
+            <mxPoint x="12" y="81" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-23" value="Port: 636" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-7" target="9HuW_AX4d_CLtjcuJ3QG-22">
@@ -187,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;443&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="670" width="227.5" height="60" as="geometry" />
+          <mxGeometry x="382.5" y="680" width="227.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="1030" width="145" height="50" as="geometry" />
