@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T18:20:09.100Z" agent="5.0 (Macintosh)" etag="hwWJni6bs2f_6wn1Tt_i" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T18:22:58.300Z" agent="5.0 (Macintosh)" etag="c1ad4HOsamaeC0uDDCCb" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,11 +119,11 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-16" value="&lt;div&gt;Windows Server 2016&lt;br&gt;Non-Domain Joined&lt;/div&gt;&lt;div&gt;Hostname: ENTITLEMENT&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: (pending subnet creation)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="270" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-17" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="640" width="60" height="80" as="geometry" />
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-17" value="PVWA&lt;br&gt;PSM" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="610" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-18" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="630" width="60" height="80" as="geometry" />
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-18" value="PVWA&lt;br&gt;PSM?" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-22" value="Campus LDAP" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="360" width="120" height="120" as="geometry" />
@@ -131,11 +131,20 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-28" value="&lt;div&gt;Cyberark Component Servers&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="590" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-40" value="Web Interface (PVWA): Port 80/443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-30" target="9HuW_AX4d_CLtjcuJ3QG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-30" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="920" width="40" height="60" as="geometry" />
+          <mxGeometry x="300" y="960" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;443&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="680" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1030" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-42" value="CPM" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
