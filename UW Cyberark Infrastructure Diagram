@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T18:35:45.200Z" agent="5.0 (Macintosh)" etag="pnB-Vv5MKdd7ueuQe6Qb" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T18:36:19.600Z" agent="5.0 (Macintosh)" etag="B0ysFtupcDfDMcZVgtib" version="13.1.3" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;443&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;443&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="670" width="227.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
