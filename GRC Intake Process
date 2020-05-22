@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T20:09:37.600Z" agent="5.0 (Macintosh)" etag="5fvLktpE4geFWlxWC51h" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T15:28:09.500Z" agent="5.0 (Macintosh)" etag="bwo71n46i6T5nwojNMR6" version="13.1.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3320" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3080" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,16 +81,10 @@
           <mxGeometry x="270" y="150" width="480" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X_yMFEVLrLtv7fPFfUJ--2" value="Risk Assessment -Validate / Interim / Test" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="ICGc_ksDgKoEMmsDHTLX-30" vertex="1">
-          <mxGeometry x="30" y="10" width="360" height="180" as="geometry" />
+          <mxGeometry x="30" y="10" width="360" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="X_yMFEVLrLtv7fPFfUJ--3" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X_yMFEVLrLtv7fPFfUJ--2" vertex="1">
+        <mxCell id="X_yMFEVLrLtv7fPFfUJ--3" value="Has there been a previous ATO?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X_yMFEVLrLtv7fPFfUJ--2" vertex="1">
           <mxGeometry y="26" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="X_yMFEVLrLtv7fPFfUJ--4" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X_yMFEVLrLtv7fPFfUJ--2" vertex="1">
-          <mxGeometry y="52" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="X_yMFEVLrLtv7fPFfUJ--5" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="X_yMFEVLrLtv7fPFfUJ--2" vertex="1">
-          <mxGeometry y="78" width="360" height="102" as="geometry" />
         </mxCell>
         <mxCell id="ICGc_ksDgKoEMmsDHTLX-36" value="HIPAA Risk Analysis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="450" width="480" height="190" as="geometry" />
@@ -138,16 +132,10 @@
           <mxGeometry x="270" y="1210" width="480" height="190" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-6" value="Secure Storage Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="ICGc_ksDgKoEMmsDHTLX-57" vertex="1">
-          <mxGeometry x="230" y="32" width="140" height="104" as="geometry" />
+          <mxGeometry x="230" y="32" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-7" value="External Collaborators" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-6" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="SJLAv09rN7KfXa-gFYUv-8" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-6" vertex="1">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="SJLAv09rN7KfXa-gFYUv-9" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-6" vertex="1">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X_yMFEVLrLtv7fPFfUJ--9" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="ICGc_ksDgKoEMmsDHTLX-57" vertex="1">
           <mxGeometry x="50" y="18" width="110" height="132" as="geometry" />
@@ -162,16 +150,13 @@
           <mxGeometry x="-330" y="793.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-10" value="Storage Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1130" width="140" height="170" as="geometry" />
+          <mxGeometry x="-350" y="1130" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-11" value="Internal Collaborators" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-10" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SJLAv09rN7KfXa-gFYUv-12" value="Workstations" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-10" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="SJLAv09rN7KfXa-gFYUv-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SJLAv09rN7KfXa-gFYUv-10" vertex="1">
-          <mxGeometry y="78" width="140" height="92" as="geometry" />
         </mxCell>
         <mxCell id="X_yMFEVLrLtv7fPFfUJ--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ICGc_ksDgKoEMmsDHTLX-55" target="ICGc_ksDgKoEMmsDHTLX-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,10 +214,13 @@
         <mxCell id="X_yMFEVLrLtv7fPFfUJ--35" value="PCI-Review" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="750" y="-40" width="80" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="Fjzk0U1RDBCM94XDhdgH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="X_yMFEVLrLtv7fPFfUJ--32">
+        <mxCell id="Fjzk0U1RDBCM94XDhdgH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="X_yMFEVLrLtv7fPFfUJ--32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1150" y="613" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9sv5nso4Bbwn5g0RSQAs-1" value="If assessments are sounding like an IT project, route to IT Project Intake for review." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="-80" width="355" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
