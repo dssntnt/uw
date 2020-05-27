@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T17:10:09.600Z" agent="5.0 (Macintosh)" etag="pqtC8WgLopjjxC6sJZ3L" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T19:51:39.100Z" agent="5.0 (Macintosh)" etag="Uau7Et3F3SmsEXZ1RPxD" version="13.1.5" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-94" target="9HuW_AX4d_CLtjcuJ3QG-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205" y="750" />
-              <mxPoint x="235" y="750" />
+              <mxPoint x="205" y="740" />
+              <mxPoint x="235" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -312,19 +312,29 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-135" value="&lt;div&gt;RDP, SSH, Telnet&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-106" target="9HuW_AX4d_CLtjcuJ3QG-129" edge="1">
           <mxGeometry x="0.7645" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="750" />
-              <mxPoint x="235" y="750" />
+              <mxPoint x="740" y="740" />
+              <mxPoint x="235" y="740" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HH7lIpdcJhDZPSpfmfqb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hApXtCzInMUjXn1EA95C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="520" as="targetPoint" />
+            <mxPoint x="380" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="730" />
+              <mxPoint x="295" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HH7lIpdcJhDZPSpfmfqb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="300" y="760" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HH7lIpdcJhDZPSpfmfqb-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="HH7lIpdcJhDZPSpfmfqb-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="360" y="772" width="50" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="HH7lIpdcJhDZPSpfmfqb-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HH7lIpdcJhDZPSpfmfqb-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="833" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
