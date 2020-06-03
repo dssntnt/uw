@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T21:16:19.300Z" agent="5.0 (Macintosh)" etag="XsKsEFuEHll2t2bOq7sO" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T21:19:54.100Z" agent="5.0 (Macintosh)" etag="vZ050Kk0vStFoXO_Y5fj" version="13.1.14" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
-    <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="475" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,8 +42,8 @@
           <mxGeometry x="0.777" relative="1" as="geometry">
             <mxPoint x="917.6999999999998" y="310.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="390" />
-              <mxPoint x="918" y="390" />
+              <mxPoint x="195" y="400" />
+              <mxPoint x="918" y="400" />
               <mxPoint x="918" y="295" />
             </Array>
             <mxPoint as="offset" />
@@ -79,7 +79,7 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-8" value="Shared Data Store" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="20" width="85" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-13" value="Hostname: PREROGATIVE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) HDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-13" value="Hostname: PREROGATIVE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) SDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="115" y="272" width="165" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-40" value="Web Interface: Port 80/443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" target="9HuW_AX4d_CLtjcuJ3QG-38" edge="1">
@@ -108,7 +108,7 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-99" value="Port: 514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-59" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="390" as="targetPoint" />
+            <mxPoint x="880" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-59" value="&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SIEM&lt;br&gt;Syslog&lt;br&gt;&amp;nbsp;Port 514&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -134,7 +134,7 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="290" y="190" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-64" value="Hostname: ADVANTAGE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) HDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-64" value="Hostname: ADVANTAGE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) SDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="277" width="165" height="103" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-65" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server;fontSize=18;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="490" y="190" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-67" value="Hostname: PRIVILEGE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) HDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-67" value="Hostname: PRIVILEGE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) SDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="272" width="165" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-68" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server;fontSize=18;" parent="1" vertex="1">
@@ -159,24 +159,24 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-69" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="390" as="targetPoint" />
+            <mxPoint x="755" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="755" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.233;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-69" target="9HuW_AX4d_CLtjcuJ3QG-64" edge="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-69" target="9HuW_AX4d_CLtjcuJ3QG-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="713" y="460" />
-              <mxPoint x="330" y="460" />
+              <mxPoint x="712" y="460" />
+              <mxPoint x="336" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="670" y="190" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-70" value="Hostname: ENTITLEMENT&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) HDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: EPV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-70" value="Hostname: ENTITLEMENT&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;/div&gt;&lt;div&gt;&lt;div&gt;CPUs: 16 (2x8) RAM: 64GB (2x32) SDD: 480 GB&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: EPV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="675" y="272" width="165" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-71" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server;fontSize=18;" parent="1" vertex="1">
