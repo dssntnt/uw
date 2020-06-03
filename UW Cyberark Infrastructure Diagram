@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T19:51:39.100Z" agent="5.0 (Macintosh)" etag="Uau7Et3F3SmsEXZ1RPxD" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T20:13:33.500Z" agent="5.0 (Macintosh)" etag="CWm21vsjTsI5i_NBn1Uz" version="13.1.14" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hApXtCzInMUjXn1EA95C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="hApXtCzInMUjXn1EA95C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="520" as="targetPoint" />
             <mxPoint x="380" y="760" as="sourcePoint" />
@@ -336,6 +336,33 @@
         </mxCell>
         <mxCell id="HH7lIpdcJhDZPSpfmfqb-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="833" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="485" y="760" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="545" y="772" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM (inactive)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="833" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="125" y="760" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="185" y="772" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-6" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="833" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="760" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-8" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="772" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-9" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="833" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
