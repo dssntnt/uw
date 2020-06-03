@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T20:13:33.500Z" agent="5.0 (Macintosh)" etag="CWm21vsjTsI5i_NBn1Uz" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T20:20:27.500Z" agent="5.0 (Macintosh)" etag="Z5CtQcEqOcwN22T0U4Qk" version="13.1.14" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-125" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1180" width="230" height="155" as="geometry" />
+          <mxGeometry x="390" y="1090" width="230" height="155" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-126" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="940" y="210" width="120" height="170" as="geometry" />
@@ -19,19 +19,8 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="486" width="730" height="464" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-94" target="9HuW_AX4d_CLtjcuJ3QG-100" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-94" target="9HuW_AX4d_CLtjcuJ3QG-129" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="740" />
-              <mxPoint x="235" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="541" width="170" height="170" as="geometry" />
+          <mxGeometry x="120" y="760" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-66" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -90,47 +79,29 @@
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-13" value="Hostname: PREROGATIVE&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 514, 1858, 636&lt;/div&gt;&lt;div&gt;Other: Non-Domain Joined&lt;br&gt;&lt;/div&gt;&lt;div&gt;CyberArk role: EPV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="115" y="265" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-40" value="Web Interface: Port 80/443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-125" target="9HuW_AX4d_CLtjcuJ3QG-38" edge="1">
+        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-40" value="Web Interface: Port 80/443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" target="9HuW_AX4d_CLtjcuJ3QG-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="1260" as="sourcePoint" />
+            <mxPoint x="611" y="1180" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="708" y="1219" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-38" target="9HuW_AX4d_CLtjcuJ3QG-103" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="708" y="730" />
-              <mxPoint x="608" y="730" />
+              <mxPoint x="611" y="1180" />
+              <mxPoint x="783" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-117" value="Port 443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-38" target="9HuW_AX4d_CLtjcuJ3QG-100" edge="1">
           <mxGeometry x="-0.2855" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="708" y="730" />
-              <mxPoint x="428" y="730" />
+              <mxPoint x="783" y="980" />
+              <mxPoint x="428" y="980" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;Active/Active Round Robin&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="551.5" y="1060" width="313.5" height="110" as="geometry" />
+          <mxGeometry x="626.5" y="1021.2" width="313.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-39" value="End users: Must be on campus VPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="425" y="1260" width="145" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-57" value="&lt;div&gt;Imaging AD&lt;/div&gt;&lt;div&gt;Oracle ERPs&lt;/div&gt;&lt;div&gt;OIM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Anything else that needs&lt;br&gt;credentials rotated." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="HH7lIpdcJhDZPSpfmfqb-1" edge="1">
-          <mxGeometry x="-0.2877" relative="1" as="geometry">
-            <mxPoint x="460" y="1170" as="targetPoint" />
-            <mxPoint x="340" y="710" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="385" y="1130" />
-              <mxPoint x="460" y="1130" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="445" y="1170" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-99" value="Port: 514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -221,7 +192,7 @@
           <mxGeometry x="707.5" y="20" width="85" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-86" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="180" y="553" width="50" height="38" as="geometry" />
+          <mxGeometry x="180" y="772" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-87" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.ad_fs;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1000" y="230" width="40" height="50" as="geometry" />
@@ -230,43 +201,37 @@
           <mxGeometry x="947.5" y="302" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-95" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="125" y="614" width="150" height="80" as="geometry" />
+          <mxGeometry x="125" y="833" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-98" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.monitor_running_apps;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="963" y="460" width="50" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-100" target="9HuW_AX4d_CLtjcuJ3QG-103" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="300" y="541" width="170" height="170" as="geometry" />
+          <mxGeometry x="300" y="760" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-101" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="360" y="553" width="50" height="38" as="geometry" />
+          <mxGeometry x="360" y="772" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-102" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 443&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PVWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="305" y="614" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-103" target="9HuW_AX4d_CLtjcuJ3QG-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="305" y="833" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="480" y="541" width="170" height="170" as="geometry" />
+          <mxGeometry x="480" y="760" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-104" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="540" y="553" width="50" height="38" as="geometry" />
+          <mxGeometry x="540" y="772" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-105" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 443&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PVWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="485" y="614" width="150" height="80" as="geometry" />
+          <mxGeometry x="485" y="833" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="655" y="541" width="170" height="170" as="geometry" />
+          <mxGeometry x="655" y="760" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-107" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="720" y="558" width="50" height="38" as="geometry" />
+          <mxGeometry x="720" y="777" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-108" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="665" y="619" width="150" height="80" as="geometry" />
+          <mxGeometry x="665" y="838" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=18;dashed=1;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-5" target="9HuW_AX4d_CLtjcuJ3QG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -280,89 +245,64 @@
           <mxGeometry x="485" y="495.5" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-111" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.load_balancer_generic;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="588" y="1110" width="37" height="50" as="geometry" />
+          <mxGeometry x="663" y="1071.2" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-112" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1230" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-124" value="" style="shape=link;html=1;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=18;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="520" as="sourcePoint" />
-            <mxPoint x="400" y="460" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="450" y="1140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-128" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1223" width="50" height="45" as="geometry" />
+          <mxGeometry x="520" y="1133" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-129" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1140" width="270" height="210" as="geometry" />
+          <mxGeometry x="100" y="1030" width="270" height="210" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-130" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="155" y="1160" width="38" height="50" as="geometry" />
+          <mxGeometry x="155" y="1050" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-131" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1160" width="39" height="50" as="geometry" />
+          <mxGeometry x="205" y="1050" width="39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-132" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server_rack;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="255" y="1160" width="50" height="50" as="geometry" />
+          <mxGeometry x="255" y="1050" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-133" value="&lt;div&gt;Servers that will be connected to via PSM&lt;/div&gt;&lt;div&gt;Protocols: RDP, SSH, Telnet&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1260" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9HuW_AX4d_CLtjcuJ3QG-135" value="&lt;div&gt;RDP, SSH, Telnet&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=2;fontSize=18;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-106" target="9HuW_AX4d_CLtjcuJ3QG-129" edge="1">
-          <mxGeometry x="0.7645" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="740" />
-              <mxPoint x="235" y="740" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hApXtCzInMUjXn1EA95C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="520" as="targetPoint" />
-            <mxPoint x="380" y="760" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="380" y="730" />
-              <mxPoint x="295" y="730" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="150" y="1150" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HH7lIpdcJhDZPSpfmfqb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="300" y="760" width="170" height="170" as="geometry" />
+          <mxGeometry x="297.5" y="530" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HH7lIpdcJhDZPSpfmfqb-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="360" y="772" width="50" height="38" as="geometry" />
+          <mxGeometry x="357.5" y="542" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="HH7lIpdcJhDZPSpfmfqb-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="305" y="833" width="150" height="80" as="geometry" />
+          <mxGeometry x="302.5" y="603" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="485" y="760" width="170" height="170" as="geometry" />
+          <mxGeometry x="482.5" y="530" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="545" y="772" width="50" height="38" as="geometry" />
+          <mxGeometry x="542.5" y="542" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-3" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: CPM (inactive)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="833" width="150" height="80" as="geometry" />
+          <mxGeometry x="487.5" y="603" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="125" y="760" width="170" height="170" as="geometry" />
+          <mxGeometry x="122.5" y="530" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="185" y="772" width="50" height="38" as="geometry" />
+          <mxGeometry x="182.5" y="542" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-6" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="833" width="150" height="80" as="geometry" />
+          <mxGeometry x="127.5" y="603" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="660" y="760" width="170" height="170" as="geometry" />
+          <mxGeometry x="657.5" y="530" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-8" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="772" width="50" height="38" as="geometry" />
+          <mxGeometry x="717.5" y="542" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pkwpnZTuEIStfYXqcOfN-9" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1858&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="833" width="150" height="80" as="geometry" />
+          <mxGeometry x="662.5" y="603" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
