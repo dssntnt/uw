@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T20:20:27.500Z" agent="5.0 (Macintosh)" etag="Z5CtQcEqOcwN22T0U4Qk" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T20:30:31.500Z" agent="5.0 (Macintosh)" etag="eqQ854-HycUiM7CSsRK4" version="13.1.14" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,12 +89,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-117" value="Port 443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=12;" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-38" target="9HuW_AX4d_CLtjcuJ3QG-100" edge="1">
-          <mxGeometry x="-0.2855" relative="1" as="geometry">
+          <mxGeometry x="0.3624" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="783" y="980" />
-              <mxPoint x="428" y="980" />
+              <mxPoint x="783" y="970" />
+              <mxPoint x="428" y="970" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-38" value="&lt;div&gt;Netscaler Load Balancer&lt;/div&gt;&lt;div&gt;Port 80 redirect to 443&lt;/div&gt;&lt;div&gt;Active/Active Round Robin&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -214,6 +214,14 @@
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-102" value="Hostname: TBD&lt;br&gt;&lt;div&gt;IP: (pending subnet creation)&lt;/div&gt;&lt;div&gt;OS: Windows Server 2016&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 443&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other: Domain Joined&lt;br&gt;&lt;/div&gt;&amp;nbsp;CyberArk role: PVWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="833" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwpnZTuEIStfYXqcOfN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9HuW_AX4d_CLtjcuJ3QG-103" target="9HuW_AX4d_CLtjcuJ3QG-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="970" />
+              <mxPoint x="783" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9HuW_AX4d_CLtjcuJ3QG-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="760" width="170" height="170" as="geometry" />
