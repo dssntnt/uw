@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T15:41:29.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.61" etag="PnW3CtxSTaDasP4Bfbss" version="13.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-28T15:49:36.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.61" etag="y_OmCzPCOWpKXIUOsCas" version="13.5.4" type="github">
   <diagram id="OTvxTW21jp-LGOUuQj5h" name="Page-1">
     <mxGraphModel dx="2276" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,10 +360,10 @@
         <mxCell id="wK3Uw1pxNS2twAb2fiw_-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.secure_virtual_machine;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="901" y="762" width="50" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="15mZKL4qg4X-mbOuNsfx-6" value="Subnet: 10.134.92.0/26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="15mZKL4qg4X-mbOuNsfx-6" value="Subnet: 10.134.92.0/26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="15mZKL4qg4X-mbOuNsfx-8" value="Subnet: 10.134.92.192/26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="15mZKL4qg4X-mbOuNsfx-8" value="Subnet: 10.134.92.192/26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5" y="610" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
